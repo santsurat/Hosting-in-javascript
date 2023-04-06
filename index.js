@@ -5,7 +5,7 @@ function getName() {
   return 0;
 }
 getName();
-
+var  x = 9;
 var x=7;
 
 const getNaam = () => {
